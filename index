@@ -1,0 +1,26 @@
+Data Science Portfolio
+Name: Tan Yanhua
+
+Short Introduction
+I am a student studying data science. I enjoy exploring datasets, discovering patterns, and building data analysis workflows with Python. This portfolio presents my completed flood data analysis project.
+
+Technical Skills
+- Programming: Python
+- Libraries: pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- Skills: Data cleaning, exploratory data analysis, data visualization, model evaluation.
+
+Project Showcase
+Project Title: Flood Event Data Analysis
+Research Question
+How does flood event frequency change over years, and what are the distribution patterns of flood events?
+
+Visualization & Explanation
+[Flood Count Plot](flood_count_plot.png)
+This visualization shows the distribution of flood event counts. It helps us observe how flood events are distributed and identify periods with high flood occurrences.
+The line plot shows the annual trend of flood events over time, revealing the changing trend across years.
+
+Project Repository Link
+[Link to project repository](https://github.com/Tanyanhua2026/data-science-project)
+
+Project Status
+Completed
